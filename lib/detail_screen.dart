@@ -183,7 +183,7 @@ class _DetailWebPageState extends State<DetailWebPage> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 const Text(
-                  'Exploreasy',
+                  'Exploreasy.',
                   style: TextStyle(
                       fontFamily: 'Staatliches',
                       fontSize: 32
